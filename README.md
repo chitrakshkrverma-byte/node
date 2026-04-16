@@ -79,7 +79,7 @@ POST /users
 Body (JSON):
 ```
 {
-  "name": "Vaibhavi",
+  "name": "chitraksh",
   "age": 19
 }
 ```
@@ -135,8 +135,8 @@ This project is licensed under MIT License.
 
 ## 👩‍💻 Author
 
-Vaibhavi Tiwari  
-GitHub: https://github.com/vaibhavitiwari099-maker
+chitraksh
+GitHub: https://github.com/chitrakshkrverma-byte/node/edit/main/README.md
 
 ---
 
